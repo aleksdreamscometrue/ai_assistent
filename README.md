@@ -1,7 +1,8 @@
 # 🪟 ИИ-ассистент для компании по установке окон
 ссылка на проект-@Narodiyokoshko_bot
 >
-> 
+> [
+](https://github.com/aleksdreamscometrue/ai_assistent/blob/main/Снимок%20экрана%202026-03-13%20в%2021.57.03.png?raw=true)>
 > ## 📋 Общая информация
 
 | Параметр | Значение |
